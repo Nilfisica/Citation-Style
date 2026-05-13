@@ -505,7 +505,7 @@
       <text macro="notes"/>
     </group>
   </macro>
-  <bibliography et-al-min="1000" et-al-use-first="1000" second-field-align="flush">
+  <bibliography et-al-min="99" et-al-use-first="98" second-field-align="flush">
     <layout>
       <text suffix="." variable="citation-number"/>
       <text macro="bibliography"/>
